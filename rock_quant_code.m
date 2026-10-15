@@ -2,7 +2,7 @@
 % heterotroph/cyanobateria joint colonies on monument rock samples
 % Generally, the same grey-scale thresholds below were used for each sample 
 % (unless microscopy image dictated otherwise i.e. poor staining)
-filename = 'cell_volumes_FEDH_MEB_021622_Area11.xlsx'; %output, change to output file name that you'd like
+filename = 'cell_volumes_MEB_021622_Area11.xlsx'; %output, change to output file name that you'd like
 EPS_staining=0; %0 = no, 1 = yes: Note, we currently do not use this feature
 volume_threshold_h=1; % micrometer^3
 volume_threshold_c=5; % micrometer^3
